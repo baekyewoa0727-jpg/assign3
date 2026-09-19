@@ -1,5 +1,10 @@
 22400330 백예원
 
+git: https://github.com/2026-2-OSS/assign03-c02-22400330.git
+git : https://github.com/baekyewoa0727-jpg/assign3.git
+vercel : 
+
+
 Service Topic : 친구 관리 사이트
 Data Fields : 이름,관계,전화번호,이메일,주소,생일 6가지 데이터 사용
 List Page : index - 전체 친구 확인 가능 
